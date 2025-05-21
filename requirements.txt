@@ -7,7 +7,7 @@ langgraph
 langchain-google-genai
 
 # Vector store client
-weaviate-client<4.0.0
+weaviate-client
 
 # Tokenizer for Gemini models
 tiktoken
