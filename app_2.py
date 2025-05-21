@@ -22,7 +22,7 @@ with st.chat_message("ai"):
 # Get user query
 query = st.chat_input("Ask about a customer...")
 
-# Run RAG and show result
+# Run RAG and show result in ui
 if query:
     with st.chat_message("user"):
         st.markdown(query)
