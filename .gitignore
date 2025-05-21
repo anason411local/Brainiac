@@ -1,0 +1,7 @@
+/.venv
+/.vscode
+/app.py
+/app_1.py
+/auth
+/rag_pipeline
+/streamlit_app.py

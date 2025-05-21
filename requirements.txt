@@ -1,0 +1,16 @@
+# UI and interaction
+streamlit
+
+# LangChain core components
+langchain
+langgraph
+langchain-google-genai
+
+# Vector store client
+weaviate-client<4.0.0
+
+# Tokenizer for Gemini models
+tiktoken
+
+# Load .env config
+python-dotenv
